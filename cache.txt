@@ -1,0 +1,1 @@
+abc,false;abbba,true;abcba,true;vikas,false;abbbab,false;kayak,true;abba,true;
